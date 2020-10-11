@@ -5,6 +5,16 @@
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
       "X-Reply": "openedu"
-    }
+    },
+    "/sample/*": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8",
+      "X-Reply": "openedu"
+    },
+    "/login/*": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8",
+      "X-Reply": "openedu"
+    }    
   }    
 }
